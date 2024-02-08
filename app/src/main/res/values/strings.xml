@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="kilograms">Kilograms</string>
+    <string name="result">0.00</string>
+    <string name="pounds">Pounds</string>
+
+</resources>
